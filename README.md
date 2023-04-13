@@ -2,7 +2,7 @@
 
 Project Link : https://polite-hill-0b1fd4600.3.azurestaticapps.net
 
-Demo Video : https://www.youtube.com/watch?v=SZ-QX_-Cx1E
+Demo Video : 
 
 _______________________________________________________________________________________________________________________________________________________________________
 
