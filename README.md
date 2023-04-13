@@ -15,14 +15,17 @@ Industry : Ed-Tech
 Project Title : Ed-Learn
 
 Problem Statement/Opportunity :
-A small business wants to build a smart and elegantly designed website as the online shopping industry has been growing at an incredible rate in today's world. To build a whole website they have chosen Azure Cloud Platform. Build a website that have awesome features like banner text slider, eye-catching hover effects, smooth scrolling navigation, gallery light box effect, and much more to serve their customers.
+
+Creating a small online resource and open-source library to deliever content and resources to students. It contain content from different 
+websites and open resources collectively, so the user don't have to look up for resources throughout the Internet. To build a whole website they have chosen Azure Cloud Platform. Build a website that have awesome features like banner text slider, eye-catching hover effects, smooth scrolling navigation, gallery light box effect, and much more to serve their users.
 
 Project Description :
 
 This is a project for Library and Resourses from different websites.
+
 This is a project for FutureReadyTalent Internship...........
 
-I have created an online store named " Level-up Lifestyle " using boot strap framework, HTML, CSS, and Javascript. It helps people to choose and explore trendy outfits according to their daily style needs. This smart and elegantly designed website has awesome features like banner text slider, eye-catching hover effects, smooth scrolling navigation, gallery light box effect, and much more. This website is a 100% responsive cross-browser template, compatible on all devices, and displayed on all screen sizes. This project is created both for sellers and customers as it has an attractive design to draw customers' attention and helps the seller to showcase their best products. This way a customer can get any product at his/her doorstep without actually stepping out of the home. I am using Microsoft Azure with Github to deploy the website and finish this project.
+I have created an online library named " Ed-Learn " using bootstrap framework, HTML, CSS, and Javascript and some open source resource. It helps people to choose and explore trendy outfits according to their daily style needs. This smart and elegantly designed website has awesome features like banner text slider, smooth scrolling navigation, gallery light box effect, and much more. This website is a 100% responsive cross-browser template, compatible on all devices, and displayed on all screen sizes. This project is created both for sellers and customers as it has an attractive design to draw users' attention and helps the library to showcase their best products. This way a student can get any resource at his/her doorstep without actually stepping out of the home. I am using Microsoft Azure with Github to deploy the website and finish this project.
 
 Primary Azure Technology : Static Web Apps, Web Apps
 
