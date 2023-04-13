@@ -16,6 +16,8 @@ Project Title : Ed-Learn
 
 Problem Statement/Opportunity :
 
+Provide resources and study material to learn new skills from different platforms.
+
 Creating a small online resource and open-source library to deliever content and resources to students. It contain content from different 
 websites and open resources collectively, so the user don't have to look up for resources throughout the Internet. To build a whole website they have chosen Azure Cloud Platform. Build a website that have awesome features like banner text slider, eye-catching hover effects, smooth scrolling navigation, gallery light box effect, and much more to serve their users.
 
