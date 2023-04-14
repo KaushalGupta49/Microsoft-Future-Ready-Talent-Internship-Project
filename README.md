@@ -39,4 +39,6 @@ Primary Azure Technology : Static Web Apps, Web Apps
 
 ![Screenshot 2023-04-13 215238](https://user-images.githubusercontent.com/113287315/231824905-313d8a99-dc65-4fc3-8fc8-12f369f82e2a.jpg)
 
+![Screenshot 2023-04-14 134055](https://user-images.githubusercontent.com/113287315/231985038-9bd9e300-0085-4719-84e8-61072bbd65f6.jpg)
+
 ![Screenshot 2023-04-13 215034](https://user-images.githubusercontent.com/113287315/231825009-3b532441-508d-495b-a731-a14d38322260.jpg)
