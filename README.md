@@ -1,6 +1,4 @@
-# ["Ed-Learn" Website using Microsoft Azure Technologies](https://polite-hill-0b1fd4600.3.azurestaticapps.net)
-
-Project Link : https://polite-hill-0b1fd4600.3.azurestaticapps.net
+# ["Ed-Learn" Website using Microsoft Azure Technologies]
 
 Demo Video : https://youtu.be/qK_SEaeFDng
 
